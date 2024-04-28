@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# webdev
+
 firstWeb
 =======
 ## Next.js App Router Course - Starter
